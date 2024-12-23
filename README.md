@@ -1,3 +1,8 @@
+Реализации ThreadPool тестились с помощью <code>JUnit</code> и <code>Mockito</code>
+
+Вопросы
+---
+
 1. Как получить ссылку на текущий поток ?
 
        Thread.currentThread();
